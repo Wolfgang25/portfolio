@@ -7,9 +7,9 @@
  box-sizing: border-box;
 }
 
-/* body {
- font-family: cursive;
-} */
+html,body {
+ overflow-x:hidden;
+} 
 
 a {
  text-decoration: none;
